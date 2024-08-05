@@ -1,0 +1,34 @@
+_repo: The-magazine-of-history-with-notes-and-queries-Vol-II-No-5-November-1905_74134
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2024-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74134'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=pst.000053232441&view=1up&seq=321
+pgterms:marc905: 20210402135603various
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: Richard Tonsing, hekula03, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bWilliam Abbatt, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History -- Periodicals'
+- !lcsh 'United States -- History -- Periodicals'
+- !lcc 'E151'
+- GITenberg
+title: The magazine of history with notes and queries, Vol. II, No. 5, November 1905
+url: http://www.gutenberg.org/ebooks/74134
